@@ -2,6 +2,8 @@
 
 🧑‍💻 Novice engineer and sport programmer from Russia <br/>
 ☕ I love clean code, like my soul | 🚀 I strive for excellence in backend development <br/>
+🔝 Codeforces [1452] specialist <br/>
+
 
 
 ## 🌐 Socials:
